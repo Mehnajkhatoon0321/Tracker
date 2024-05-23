@@ -1,6 +1,22 @@
 # tracker
+# its a expense tracker application
+USE
 
-A new Flutter project.
+flutter sdk 
+sdks:
+  dart: ">=3.2.6 <4.0.0"
+  flutter: ">=3.7.0"
+
+Features
+BLOC - use for state management 
+flutter_local_notifications  -use for Notification 
+sqflite -  use for local database (here apply the CRUD operations)
+
+
+
+
+
+
 
 ## Getting Started
 
